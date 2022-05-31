@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic android</string>
+    <string name="submit">Button Submit</string>
+    <string name="udacoding">udacoding</string>
+</resources>
